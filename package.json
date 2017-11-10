@@ -1,0 +1,21 @@
+{
+  "name": "angular-project",
+  "version": "1.0.0",
+  "description": "blog app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "^2.8.4",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mysql": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "afham & shadab",
+  "license": "ISC"
+}

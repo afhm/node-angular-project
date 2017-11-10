@@ -2,9 +2,7 @@
 
 ## Install angular-cli
 
-``` npm install --save @angular/cli
-```
+``` npm install --save @angular/cli ```
 
 ## Install dependencies
-``` npm install 
-```
+``` npm install ```
